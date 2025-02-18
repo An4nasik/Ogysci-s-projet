@@ -24,10 +24,7 @@
 <h2>Технологии</h2>
 <p>Для разработки приложения использованы следующие технологии:</p>
 <ul>
-    <li>JavaScript</li>
-    <li>HTML/CSS</li>
-    <li>React.js</li>
-    <li>Node.js</li>
+    <li>Android</li>
     <li>Express</li>
     <li>MongoDB</li>
 </ul>
